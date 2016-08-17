@@ -11,3 +11,5 @@ Creating a new branch is quick.
 主分支冲突222222
 
 孙云飞
+
+stash
