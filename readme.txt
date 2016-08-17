@@ -7,3 +7,4 @@ Creating a new branch is quick.
 
 主分支做了添加
 
+主分支冲突
